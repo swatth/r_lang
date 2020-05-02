@@ -8,4 +8,6 @@ Sample below is created by stacking up a plot for each day with data snapshop on
 
 I hope it gives a sense of progression of the spread since the very beginning and emphasizes more on the situation based on the growth of active cases relative to the total active cases of the previous day.
 
+(First [posted](https://www.facebook.com/groups/dsbkkgroup/permalink/1378132439025426/) on facebook group: Datascience BKK on Mar 31 with data up to Mar 30)
+
 ![Active cases progression](https://github.com/swatth/r_lang/blob/master/covid-19-visualization/assets/Sample.gif)
